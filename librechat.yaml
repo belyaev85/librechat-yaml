@@ -1,3 +1,5 @@
+version: 1.2.0
+
 # Definition of custom endpoints
 endpoints:
   custom:
